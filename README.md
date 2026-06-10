@@ -37,10 +37,14 @@
 
 ## Demonstration
 
->The faces of the pet\
+>The faces of the pet
+
+
 https://github.com/user-attachments/assets/0c7b694c-c602-482c-8ba7-945563edcc5c
 
->The happines, hunger, energy and health menus\
+>The happines, hunger, energy and health menus
+
+
 https://github.com/user-attachments/assets/93b86942-9192-4274-8c56-f44290d25eea
 
 
