@@ -1,3 +1,6 @@
+
+
+
 # kitty_tamagochi
 
 |.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.|
@@ -11,12 +14,12 @@
 |.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.||.|.|.|.|.|.|.|.|
 
 
-> Interactive virtual pet inspired by 90s digital pets, powered by an **Arduino Uno** and a **MAX7219 LED Dot Matrix**.
+> Interactive virtual pet inspired by 90s digital pets, powered by an **Elegoo UNO R3** and a **MAX7219 LED Dot Matrix**.
 
 
 ## Technical Stack
 
-* **Hardware:** Arduino Uno, 8x8 MAX7219 LED Matrix, 5x Pushbutton
+* **Hardware:** Elegoo UNO R3, 8x8 MAX7219 LED Matrix, 5x Pushbutton
 * **Libraries:** `LedControl`, `ezButton`
 * **Language:** Embedded C++
 
@@ -32,9 +35,12 @@
 
 
 
-## 🎥 Demo
+## Demonstration
 
-[Link to video here]
+ <video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
 
 ## Program Logic
@@ -103,7 +109,12 @@ Main_menu (replenishes stat levels)
 
 ---
 
+## The face behind the cat sprite
+\
 
+
+<img width="200" alt="KITTY_PIC" src="https://github.com/user-attachments/assets/73a10287-aff7-45a2-bbcf-1b8ae6516a21" />
+> My cat from home
 
 
 
