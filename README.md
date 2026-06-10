@@ -37,9 +37,12 @@
 
 ## Demonstration
 
-<video width="320"  controls>
-  <source src="movie.mp4" type="video/mp4">
-</video> 
+>The faces of the pet\
+<https://github.com/user-attachments/assets/0c7b694c-c602-482c-8ba7-945563edcc5c>
+
+>The happines, hunger, energy and health menus\
+<https://github.com/user-attachments/assets/93b86942-9192-4274-8c56-f44290d25eea>
+
 
 ## Program Logic
 
@@ -109,8 +112,6 @@ Main_menu (replenishes stat levels)
 
 ## The face behind the cat sprite
 \
-
-
 <img width="200" alt="KITTY_PIC" src="https://github.com/user-attachments/assets/73a10287-aff7-45a2-bbcf-1b8ae6516a21" />
 > My cat from home
 
